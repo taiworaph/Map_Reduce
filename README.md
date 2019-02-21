@@ -1,5 +1,5 @@
-Click-Through-Rate Prediction with PySpark Logistic Regression
-...............................................................
+## Click-Through-Rate Prediction with PySpark Logistic Regression
+
 
 
 Pyspark for Implementing Linear Logistic Regression and Polynomial Logistic Regression
